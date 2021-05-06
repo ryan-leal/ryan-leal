@@ -15,9 +15,12 @@
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img>
   `<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>`
+  
+<h3 align="center">Minhas estatisticas :chart_with_upwards_trend:</h3>
+
 <p align="center">
 
-<h3 align="center">Minhas estatisticas :chart_with_upwards_trend:</h3>
+
 
 [
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-leal&layout=compact&theme=tokyonight)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-leal&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
