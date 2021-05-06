@@ -3,10 +3,9 @@
   <h1 align="center">Ryan Matheus da Silva Leal</h1>
  
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-<p align="center">
 
- ### Tecnologias que estou estudando :computer:
-</p>
+ <h3 align="center"> Tecnologias que estou estudando :computer:</h3>
+
 
  
 <p align="center">
