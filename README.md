@@ -3,8 +3,11 @@
   <h1 align="center">Ryan Matheus da Silva Leal</h1>
  
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<p align="center">
 
  ### Tecnologias que estou estudando :computer:
+</p>
+
  
 <p align="center">
   `<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>`
@@ -15,7 +18,7 @@
   `<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>`
   <br/>
   <br/>
-<p>
+<p align="center">
 
 ### Minhas estatisticas :chart_with_upwards_trend:
 [
